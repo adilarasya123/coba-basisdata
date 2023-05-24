@@ -1,0 +1,6 @@
+RENCANA PROJECT
+- membuat database sekolah (done)
+- membuat halaman dashboard
+- membuat profile
+- membuat halaman spp
+- membuat halaman pembayaran spp
